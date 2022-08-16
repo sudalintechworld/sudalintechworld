@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sujin_wwjd"/></a>
 <a href="mailto:sujin.wwjd@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sujin.wwjd@gmail.com"/></a>
 
-<h5>• Currently I'm learning...🧸</h5>
+<h5>• Currently I'm learning...💻</h5>
 <div>
  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
